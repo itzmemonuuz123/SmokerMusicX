@@ -25,7 +25,7 @@ GIFSchannel :- [💞 𝗝𝗼𝗶𝗻 ❤️🥀](https://t.me/cutebabygif916)
             [
                 [
                     InlineKeyboardButton(
-                        "🥀 Jᴏɪɴ Hᴇʀᴇ & Sᴜᴘᴘᴏʀᴛ ✨", url=f"https://t.me/esport_bots")
+                        "🥀 Jᴏɪɴ Hᴇʀᴇ & Sᴜᴘᴘᴏʀᴛ ✨", url=f"https://t.me/moluuzsupport")
                 ]
                 
            ]
@@ -42,7 +42,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "💥 Cʟɪᴄᴋ Mᴇ Tᴏ Gᴇᴛ Rᴇᴘᴏ 💞", url=f"https://github.com/itzmemonuuz123/SmokerMusicX")
+                        "💥 Cʟɪᴄᴋ Mᴇ Tᴏ Gᴇᴛ Rᴇᴘᴏ 💞", url=f"https://t.me/moluuzsupport")
                 ]
             ]
         ),
